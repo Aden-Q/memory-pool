@@ -250,7 +250,7 @@ As the tables and figures above show, only use **"new"** and **"delete"** is ine
 
   - **Name:** Zecheng Qian
   - **Student ID:** 3160102418
-  - **Major:** Information Engineerings
+  - **Major:** Information Engineering
 
 - **Teacher**
 
