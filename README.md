@@ -1,6 +1,4 @@
-# Source code will be upload after project check and accept
-
-# Object-Oriented Programming 
+# STL Vector Memory Pool
 
 # 1. Overview 
 
