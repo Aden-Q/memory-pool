@@ -161,7 +161,7 @@ template <typename T> typename MemoryPool<T>::Obj* MemoryPool<T>::freelists[] = 
 
 
 
-**Note: Please refer to source code for more details, definition of functions will not be listed due to space limitation. **
+**Note: Please refer to source code for more details, definition of functions will not be listed due to space limitation.**
 
 
 
