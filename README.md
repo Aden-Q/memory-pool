@@ -238,7 +238,7 @@ Performance of **new/delete**, **stl::allocator** and **memory pool**:
 
 # 8. Analysis Of Performance 
 
-As the tables and figures above show, only use **"new"** and **"delete"** is inefficient. In contrast, **stl::allocator** and **memory pool** show good performance in terms of program efficiency, while **stl::allocator** performs better to some extend. Time complexity is difficult to analyze because lack of knowledge about memory management of operating system. It can be concluded that **stl::allocator** may be implemented using **memory pool** or other technique like **ring cache**, rather than simple packaging of **"new"** and **"delete"**.
+As the tables and figures above show, using **"new"** and **"delete"** is inefficient. In contrast, **stl::allocator** and **memory pool** show good performance in terms of program efficiency, while **stl::allocator** performs better to some extend. Time complexity is difficult to analyze because lack of knowledge about memory management of operating system. It can be concluded that **stl::allocator** may be implemented using **memory pool** or other technique like **ring cache**, rather than simple packaging of **"new"** and **"delete"**.
 
 
 
