@@ -54,7 +54,7 @@ Class memory pool has 16 freelists in total, using 8-byte alignment standard (ef
 
 Simply open memorypool.sln in **Visual Studio 2017—>Generate a solution—>Run**
 
-Or you can build with source code and head file but feasibility may can't be guranteed.
+Or you can build with source code and head file but feasibility may not be guranteed.
 
 
 
