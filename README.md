@@ -250,7 +250,7 @@ As the tables and figures above show, using **"new"** and **"delete"** is ineffi
   - **Student ID:** 3160102418
   - **Major:** Information Engineering
 
-- **Teacher**
+- **Advisor**
 
   + WeiWei Xu
 
